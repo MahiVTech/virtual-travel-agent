@@ -1,11 +1,12 @@
+# Virtual Travel Agent
 
-  # Virtual Travel Agent Overview
+## 🚀 Overview
+An AI-powered virtual travel agent application that helps users
+explore flights, activities, and trip planning.
 
-  This is a code bundle for Virtual Travel Agent Overview. The original project is available at https://www.figma.com/design/WMfhai1di0VQAc4Obml2KM/Virtual-Travel-Agent-Overview.
+## 🛠 Tech Stack
+- Frontend: HTML / CSS / JS (or React if used)
+- AI-assisted logic
 
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+## 👩‍💻 Author
+Mahi
